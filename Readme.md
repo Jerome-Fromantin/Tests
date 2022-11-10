@@ -1,0 +1,1 @@
+Ce mini repository ne sert qu'à tester des commandes GitHub.
